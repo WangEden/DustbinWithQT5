@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+83376411237ba303d2dd729047e7e916 CMakeFiles/DustbinWithQT5_autogen
+2d65b9311e4eceb83f34e3d8a3b483c4 D:/ApplicationData/QtProj/DustbinWithQT5/DustbinWithQT5_zh_CN.ts
+ab4fdec8fe3b254dc34663ef9316294f DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp

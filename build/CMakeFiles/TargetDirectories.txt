@@ -1,0 +1,8 @@
+D:/ApplicationData/QtProj/DustbinWithQT5/build/CMakeFiles/DustbinWithQT5.dir
+D:/ApplicationData/QtProj/DustbinWithQT5/build/CMakeFiles/edit_cache.dir
+D:/ApplicationData/QtProj/DustbinWithQT5/build/CMakeFiles/rebuild_cache.dir
+D:/ApplicationData/QtProj/DustbinWithQT5/build/CMakeFiles/list_install_components.dir
+D:/ApplicationData/QtProj/DustbinWithQT5/build/CMakeFiles/install.dir
+D:/ApplicationData/QtProj/DustbinWithQT5/build/CMakeFiles/install/local.dir
+D:/ApplicationData/QtProj/DustbinWithQT5/build/CMakeFiles/install/strip.dir
+D:/ApplicationData/QtProj/DustbinWithQT5/build/CMakeFiles/DustbinWithQT5_autogen.dir
