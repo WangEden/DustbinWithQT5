@@ -208,7 +208,7 @@ Item {
                         ImageTransmission {
                             id: camera_window
                             anchors.fill:parent
-
+                            
                         }
                         Button {
                             onClicked: {

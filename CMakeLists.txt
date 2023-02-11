@@ -26,6 +26,7 @@ set(PROJECT_SOURCES
 )
 
 include_directories(.)
+include_directories(./cppUtils/)
 
 # import OpenCV lib
 include_directories(${OpenCV_DIR}/include)

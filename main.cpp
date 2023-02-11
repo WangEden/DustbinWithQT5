@@ -3,7 +3,7 @@
 #include <QLocale>
 #include <QTranslator>
 #include <QQmlContext>
-// #include "camerawindow.h"
+#include "cppUtils/imagetransmission.h"
 
 int main(int argc, char *argv[])
 {
@@ -35,7 +35,7 @@ int main(int argc, char *argv[])
 
     // 注册对象
     {
-//        qmlRegisterType<CameraWindow>("CameraWindow", 1, 0, "CameraWindow");
+        qmlRegisterType<ImageTransmission>("ImageTransmission", 1, 0, "ImageTransmission");
     }
 
     const QUrl url(QStringLiteral("qrc:/main.qml"));

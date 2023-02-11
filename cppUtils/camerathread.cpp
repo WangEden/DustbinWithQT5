@@ -1,5 +1,5 @@
 #include "camerathread.h"
-#include "cppUtils/camerathread.h"
+
 
 CameraThread::CameraThread(QObject * parent) : QThread(parent)
 {
@@ -24,10 +24,27 @@ void CameraThread::set_mat(const cv::Mat &mat)
 
 void CameraThread::run()
 {
+    qDebug() << "捕获摄像头画面的线程地址：" << QThread::currentThread();
     while(true)
     {
         this->cap >> this->mat_;
         this->set_mat(this->mat_);
+        emit sendImage(toQImage(this->mat_));
         msleep(30);
     }
+}
+
+QImage CameraThread::toQImage(cv::Mat &srcFrom)
+{
+    cv::Mat rgbFrame;
+    cv::cvtColor(srcFrom,rgbFrame,cv::COLOR_BGR2RGB);
+    qDebug() << "进行颜色转换";
+    QImage img((const uchar*)rgbFrame.data,rgbFrame.cols,rgbFrame.rows,rgbFrame.step,QImage::Format_RGB888);
+    img.bits(); //深拷贝，避免线程退出内存错误
+    return img;
+}
+
+void CameraThread::recvStatus(int status)
+{
+    this->_status = status;
 }
