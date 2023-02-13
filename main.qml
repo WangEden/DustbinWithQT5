@@ -193,9 +193,9 @@ Window {
                 id:page_loader
                 anchors.fill: parent
                 source: "/pages/HomeTab.qml"
-//                onStatusChanged: {
-//                    console.log("status:", status)
-//                }
+                onStatusChanged: {
+                    console.log("status:", status)
+                }
                 NumberAnimation {
                     id: page_loader_animation
                     target: page_loader.item

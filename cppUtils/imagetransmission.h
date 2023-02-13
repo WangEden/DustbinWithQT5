@@ -17,12 +17,16 @@ class ImageTransmission : public QQuickPaintedItem
 
 public:
     ImageTransmission(QQuickItem *parent = nullptr);
+    ~ImageTransmission();
     void paint(QPainter * painter) override;
     QPixmap matToPixmap(const QSize & size, const cv::Mat & mat);
     Q_INVOKABLE void open_camera();
-
+    Q_INVOKABLE void updatePainted();
+    Q_INVOKABLE void close_camera();
+    void setRunning(bool flag);
 
 signals:
+    void runningChanged();
 
 public slots:
     // 接受子线程传回的图片
@@ -32,6 +36,7 @@ private:
     cv::Mat _mat;
     QImage _img;
     CameraThread * camera_thread = nullptr;
+    bool _running = false;
 };
 
 #endif // IMAGETRANSMISSION_H

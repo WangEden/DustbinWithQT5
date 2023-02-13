@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-69bdbf251cb952618970.json",
+					"jsonFile" : "directory-.-Debug-58fa022631a54174e924.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.14"
@@ -42,7 +42,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "DustbinWithQT5::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-DustbinWithQT5-Debug-a81e00027416ee83248a.json",
+					"jsonFile" : "target-DustbinWithQT5-Debug-d2a39b528c5e8637d526.json",
 					"name" : "DustbinWithQT5",
 					"projectIndex" : 0
 				},

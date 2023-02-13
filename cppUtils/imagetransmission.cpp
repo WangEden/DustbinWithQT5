@@ -5,6 +5,12 @@ ImageTransmission::ImageTransmission(QQuickItem *parent) : QQuickPaintedItem(par
 
 }
 
+ImageTransmission::~ImageTransmission()
+{
+    this->camera_thread->requestInterruption();
+    this->camera_thread->wait();
+}
+
 
 void ImageTransmission::paint(QPainter *painter)
 {
@@ -33,10 +39,34 @@ void ImageTransmission::open_camera()
     connect(camera_thread, SIGNAL(sendImage(QImage)), this, SLOT(recvImage(QImage)));
     qDebug() << "创建并绑定了摄像头线程";
 
-    this->camera_thread->start();
+    setRunning(true);
     qDebug() << "摄像头线程启动";
-    update();
+    updatePainted();
     qDebug() << "刷新画面";
+}
+
+void ImageTransmission::updatePainted()
+{
+    update();
+}
+
+void ImageTransmission::close_camera()
+{
+    setRunning(false);
+    emit runningChanged();
+}
+
+void ImageTransmission::setRunning(bool flag)
+{
+    this->_running = flag;
+    if(_running) {
+        this->camera_thread->start();
+    }
+    else {
+        this->camera_thread->requestInterruption();
+        this->camera_thread->released_camera();
+        this->camera_thread->wait();
+    }
 }
 
 void ImageTransmission::recvImage(QImage img)

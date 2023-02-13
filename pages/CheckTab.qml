@@ -205,45 +205,58 @@ Item {
                         color: "transparent"
                         objectName: "CameraWindowContainer"
                         border.color: "black"
-                        ImageTransmission {
-                            id: camera_window
-                            anchors.fill:parent
-
+                        // 摄像头画面接口
+                        Component {
+                            id:com
+                            ImageTransmission {
+                                id: camera_window
+                                anchors.fill:parent
+                            }
                         }
-                        Button {
-                            onClicked: {
-                                camera_window.open_camera();
+                        Loader {
+                            id:loader
+                            anchors.fill:parent
+                            sourceComponent: null
+                        }
+
+//                        ImageTransmission {
+//                            id: camera_window
+//                            anchors.fill:parent
+//                        }
+                        // 点击开启摄像头
+                        Row {
+                            Button {
+                                text: "开启"
+                                onClicked: {
+                                    loader.sourceComponent = com
+                                    loader.item.open_camera();
+                                    timer.start()
+                                }
+                            }
+                            // 点击关闭摄像头
+                            Button {
+                                text:"关闭"
+                                onClicked: {
+                                    timer.stop()
+                                    loader.item.close_camera();
+                                    loader.sourceComponent = null;
+                                }
                             }
                         }
 
-                        // 声明信号
-//                        signal openCamera(int status, string s)
-
-                        // 摄像头画面接口
-//                        CameraWindow {
-//                            id:camera_window
-//                            iValue: 10
-//                            sString: "camera"
-//                            objectName: "CameraWindow"
-//                            Component.onCompleted: {
-//                                console.log(iValue, sString)
-//                            }
-//                        }
-//                        Button {
-//                            onClicked: {
-//                                r.openCamera(10, "请求打开摄像头");
-//                            }
-//                        }
-
-                        // 连接打开摄像头的信号和槽
-//                        Connections {
-//                            target: r
-//                            function onOpenCamera(status, s){
-//                                camera_window.camera_open(status, s)
-//                            }
-//                        }
-//                        Component.onCompleted: {
-//                            openCamera.connect(camera_window.camera_open())
+                        Timer {
+                            id:timer
+                            interval: 100
+                            running: false
+                            repeat: true
+                            onTriggered: {
+                                loader.item.updatePainted();
+                            }
+                        }
+//                        onDestroyed: {
+//                            timer.stop()
+//                            camera_window.close_camera();
+//                            camera_window.destroy();
 //                        }
 
                     }
@@ -266,4 +279,12 @@ Item {
             }
         }
     }
+    Component.onDestruction: {
+        if(loader.sourceComponent != null){
+            timer.stop()
+            loader.item.close_camera();
+            loader.sourceComponent = null;
+        }
+    }
+
 }

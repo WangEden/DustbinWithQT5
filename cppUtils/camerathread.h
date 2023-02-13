@@ -22,6 +22,7 @@ public:
     void set_mat(const cv::Mat &mat);
     // 接受主线程传来的参数：
     void recvStatus(int status);
+    void released_camera();
 
 protected:
     void run() override;

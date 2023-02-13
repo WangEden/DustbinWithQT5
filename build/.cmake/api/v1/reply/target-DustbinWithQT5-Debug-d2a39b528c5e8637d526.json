@@ -42,25 +42,25 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 54,
+				"line" : 55,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 73,
+				"line" : 74,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 32,
+				"line" : 33,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 62,
+				"line" : 63,
 				"parent" : 0
 			},
 			{
@@ -162,7 +162,13 @@
 			{
 				"command" : 9,
 				"file" : 0,
-				"line" : 31,
+				"line" : 29,
+				"parent" : 0
+			},
+			{
+				"command" : 9,
+				"file" : 0,
+				"line" : 32,
 				"parent" : 0
 			}
 		]
@@ -218,6 +224,10 @@
 				},
 				{
 					"backtrace" : 23,
+					"path" : "D:/ApplicationData/QtProj/DustbinWithQT5/./cppUtils"
+				},
+				{
+					"backtrace" : 24,
 					"path" : "C:/Applications/opencv4/include"
 				},
 				{

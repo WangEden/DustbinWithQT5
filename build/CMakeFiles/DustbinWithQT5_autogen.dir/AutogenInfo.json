@@ -131,6 +131,7 @@
 	"MOC_INCLUDES" : 
 	[
 		"D:/ApplicationData/QtProj/DustbinWithQT5",
+		"D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils",
 		"C:/Applications/opencv4/include",
 		"C:/Applications/Qt/5.15.2/mingw81_64/include",
 		"C:/Applications/Qt/5.15.2/mingw81_64/include/QtCore",

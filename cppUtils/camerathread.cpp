@@ -25,7 +25,7 @@ void CameraThread::set_mat(const cv::Mat &mat)
 void CameraThread::run()
 {
     qDebug() << "捕获摄像头画面的线程地址：" << QThread::currentThread();
-    while(true)
+    while(!isInterruptionRequested())
     {
         this->cap >> this->mat_;
         this->set_mat(this->mat_);
@@ -47,4 +47,9 @@ QImage CameraThread::toQImage(cv::Mat &srcFrom)
 void CameraThread::recvStatus(int status)
 {
     this->_status = status;
+}
+
+void CameraThread::released_camera()
+{
+    this->cap.release();
 }
