@@ -66,8 +66,8 @@ Item {
                     Utils.DustbinProgressBar {
                         progress: progress1
                         trash_type_icon:"qrc:/src/pages/storegePage/trash_type_recylce.png"
-                        color1:Qt.rgba(227 / 256, 65 / 256, 63 / 256, 1)
-                        color2:Qt.rgba(159 / 256, 46 / 256, 51 / 256, 1)
+                        color1:Qt.rgba(62  / 256, 116 / 256, 208 / 256, 1)
+                        color2:Qt.rgba(159 / 256, 46  / 256, 51  / 256, 1)
                     }
 
                 }
@@ -97,8 +97,8 @@ Item {
                     Utils.DustbinProgressBar {
                         progress: progress3
                         trash_type_icon:"qrc:/src/pages/storegePage/trash_type_recylce.png"
-                        color1:Qt.rgba(227 / 256, 65 / 256, 63 / 256, 1)
-                        color2:Qt.rgba(159 / 256, 46 / 256, 51 / 256, 1)
+                        color1:Qt.rgba(172 / 256, 51 / 256, 193 / 256, 1)
+                        color2:Qt.rgba(159 / 256, 46 / 256, 51  / 256, 1)
                     }
                 }
                 Rectangle {

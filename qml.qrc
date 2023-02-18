@@ -28,5 +28,11 @@
         <file>qmlUtils/BatteryPanel.qml</file>
         <file>src/pages/storegePage/dustbin_mask.png</file>
         <file>src/pages/storegePage/trash_type_recylce.png</file>
+        <file>qmlUtils/HomeTabSceneSignal.qml</file>
+        <file>src/pages/homePage/card_1_sign_logo.svg</file>
+        <file>qmlUtils/HoverPressButton.qml</file>
+        <file>src/pages/homePage/card_1_scene_logo.png</file>
+        <file>src/pages/homePage/card_2_battery_logo.png</file>
+        <file>src/pages/homePage/card_2_battery_logo.svg</file>
     </qresource>
 </RCC>

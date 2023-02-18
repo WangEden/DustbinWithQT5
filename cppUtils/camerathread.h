@@ -10,7 +10,6 @@
 #include <opencv2/imgproc.hpp>
 #include <opencv2/videoio.hpp>
 
-
 class CameraThread : public QThread
 {
     Q_OBJECT

@@ -24,7 +24,7 @@ void CameraThread::set_mat(const cv::Mat &mat)
 
 void CameraThread::run()
 {
-    qDebug() << "捕获摄像头画面的线程地址：" << QThread::currentThread();
+    // qDebug() << "捕获摄像头画面的线程地址：" << QThread::currentThread();
     while(!isInterruptionRequested())
     {
         this->cap >> this->mat_;
@@ -38,7 +38,7 @@ QImage CameraThread::toQImage(cv::Mat &srcFrom)
 {
     cv::Mat rgbFrame;
     cv::cvtColor(srcFrom,rgbFrame,cv::COLOR_BGR2RGB);
-    qDebug() << "进行颜色转换";
+    // qDebug() << "进行颜色转换";
     QImage img((const uchar*)rgbFrame.data,rgbFrame.cols,rgbFrame.rows,rgbFrame.step,QImage::Format_RGB888);
     img.bits(); //深拷贝，避免线程退出内存错误
     return img;

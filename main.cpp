@@ -29,8 +29,8 @@ int main(int argc, char *argv[])
     // 全局上下文对象
     {
         QQmlContext * context = engine.rootContext();
-        context->setContextProperty("SCREEN_WIDTH", 512);
-        context->setContextProperty("SCREEN_HEIGHT", 300);
+        context->setContextProperty("SCREEN_WIDTH", 512 * 1.5);
+        context->setContextProperty("SCREEN_HEIGHT", 300 * 1.5);
     }
 
     // 注册对象

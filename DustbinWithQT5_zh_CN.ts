@@ -2,16 +2,16 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_CN">
 <context>
-    <name>BatteryPanel</name>
+    <name>CheckTab</name>
     <message>
-        <source>%1 %</source>
+        <source> </source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
-    <name>CheckTab</name>
+    <name>HomeTab</name>
     <message>
-        <source> </source>
+        <source>电池电量</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

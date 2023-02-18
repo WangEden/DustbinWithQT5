@@ -1,3 +1,3 @@
-C:\Applications\Qt\Tools\CMake_64\bin\cmake.exe -E rm -f CMakeFiles\DustbinWithQT5.dir/objects.a
-C:\Applications\Qt\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\DustbinWithQT5.dir/objects.a @CMakeFiles\DustbinWithQT5.dir\objects1.rsp
-C:\Applications\Qt\Tools\mingw1120_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\DustbinWithQT5.dir/objects.a -Wl,--no-whole-archive -o DustbinWithQT5.exe -Wl,--out-implib,libDustbinWithQT5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DustbinWithQT5.dir\linklibs.rsp
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\DustbinWithQT5.dir/objects.a
+C:\Applications\Qt\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\DustbinWithQT5.dir/objects.a @CMakeFiles\DustbinWithQT5.dir\objects1
+C:\Applications\Qt\Tools\mingw1120_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\DustbinWithQT5.dir/objects.a -Wl,--no-whole-archive -o DustbinWithQT5.exe -Wl,--out-implib,libDustbinWithQT5.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DustbinWithQT5.dir\linkLibs.rsp

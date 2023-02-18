@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-db93a7afd7d7c72697dc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DustbinWithQT5",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DustbinWithQT5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DustbinWithQT5-Debug-de18e83bf29df965dc23.json",
+					"name" : "DustbinWithQT5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "DustbinWithQT5_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DustbinWithQT5_autogen-Debug-f62870e287ffc4290394.json",
+					"name" : "DustbinWithQT5_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/ApplicationData/QtProj/DustbinWithQT5/build",
+		"source" : "D:/ApplicationData/QtProj/DustbinWithQT5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

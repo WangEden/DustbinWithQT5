@@ -5,6 +5,10 @@ import "../qmlUtils" as Utils
 Item {
     id: homeTab
     anchors.fill:parent
+    property int status
+    signal scenechange()
+
+//    property alias scene_state: scene.scene_state
     Rectangle {
         width: parent.width
         height: parent.height
@@ -13,17 +17,22 @@ Item {
             id: homeTab_root
             height: 0.625 * parent.height
             width: 0.74 * parent.width
-            border.color: "black"
+            border.color: "yellow"
             color: "transparent"
             anchors.centerIn: parent
+            Row {
+
+            }
+
             Rectangle {
+                // 第一块面板
                 id: card_1_scene
                 height: parent.height
                 width: 2 * height / 3
                 anchors.left: parent.left
                 clip:true
                 z:2
-                border.color: "black"
+//                border.color: "black"
                 color: "transparent"
                 Rectangle {
                     id: card_1_scene_panel
@@ -33,7 +42,7 @@ Item {
                     anchors.top: parent.top
                     clip: true
                     z:3
-                    border.color: "black"
+//                    border.color: "black"
                     //color:"transparent"
                     layer.enabled: true
                     layer.effect: DropShadow {
@@ -52,13 +61,14 @@ Item {
                     Rectangle {
                         width:parent.width
                         height:parent.height / 4
-                        anchors.topMargin: 27
+//                        anchors.topMargin: 27
                         color: "transparent"
+//                        border.color: "blue"
                         y:parent.height / 4
                         z:4
                         Image{
                             anchors.fill: parent
-                            opacity: 0.4
+                            opacity: 0.6
                             fillMode: Image.PreserveAspectCrop
                             source:"qrc:/src/pages/homePage/card_1_scene_background.png"
                             LinearGradient {
@@ -77,7 +87,58 @@ Item {
                         }
                     }
                     Rectangle {
+                        width:parent.width
+                        height:parent.height / 3
+                        anchors.topMargin: 20
+                        color: "transparent"
+//                        border.color: "yellow"
+                        y:parent.height / 4
+                        z:5
+                        Image {
+                            height: parent.height
+                            anchors.centerIn: parent
+                            source: "qrc:/src/pages/homePage/card_1_scene_logo.svg"
+                            fillMode: Image.PreserveAspectFit
+                        }
+                    }
+                    Rectangle {
+//                        border.color: "green"
+                        height: parent.height / 12
+                        width: 0.7 * parent.width
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        anchors.bottom: parent.bottom
+                        anchors.bottomMargin: 0.27 * parent.height
+                        color: "transparent"
+                        Utils.HomeTabSceneSignal {
+                            // 当前场景
+                            id: scene
+//                            _scene_state: scene_state
+                            _scene_state: "indoor"
+                        }
+                    }
+                    Rectangle {
+                        height: 0.16 * parent.height
+                        width: parent.width / 2
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        anchors.bottom: parent.bottom
+                        anchors.bottomMargin: 0.05 * parent.height
+                        color: "transparent"
+//                        border.color: "yellow"
+                        Utils.HoverPressButton {
+                            onSwitchscene: {
+                                if(status == 1){
+                                    scene._scene_state = "indoor"
+                                }
+                                else {
+                                    scene._scene_state = "outdoor"
+                                }
+//                                scenechange()
+                                //
+                                status = (status + 1) % 2
+                                //
+                            }
 
+                        }
                     }
                 }
                 Rectangle {
@@ -85,7 +146,7 @@ Item {
                     width: parent.width
                     height: 0.1125 * width
                     anchors.bottom: parent.bottom
-                    border.color: "black"
+//                    border.color: "black"
                     //color:"transparent"
                     radius: 24
                     opacity:0.3
@@ -106,11 +167,12 @@ Item {
                 }
             }
             Rectangle {
+                // 第二块面板
                 id: card_2_battery
                 height: parent.height
                 width: 2 * height / 3
                 anchors.right: parent.right
-                border.color: "black"
+//                border.color: "black"
                 color: "transparent"
                 Rectangle {
                     id: card_2_battery_panel
@@ -118,7 +180,7 @@ Item {
                     height: 5.5 * width / 4
                     radius: 12
                     anchors.top: parent.top
-                    border.color: "black"
+//                    border.color: "black"
                     //color:"transparent"
                     layer.enabled: true
                     layer.effect: DropShadow {
@@ -134,6 +196,53 @@ Item {
                         GradientStop { position: 0.75; color: Qt.rgba(26 / 256, 15 / 256, 51 / 256, 1)}
                         GradientStop { position: 1.2; color: Qt.rgba(36 / 256, 19 / 256, 72 / 256, 1)}
                     }
+                    Rectangle {
+                        width: 0.56 * parent.width
+                        height: width
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        anchors.top: parent.top
+                        anchors.topMargin: 0.22 * parent.height
+//                        border.color:"blue"
+                        color: "transparent"
+                        Utils.BatteryPanel {
+                            rate: 1
+                        }
+                    }
+
+                    Rectangle {
+                        width: parent.width / 4 * 3
+                        height: parent.height * 0.15
+                        anchors.horizontalCenter: parent.horizontalCenter
+                        anchors.bottom: parent.bottom
+                        anchors.bottomMargin: 0.15 * parent.height
+//                        border.color: "yellow"
+                        color: "transparent"
+                        Text {
+                            text: qsTr("电池电量")
+                            anchors.centerIn: parent
+                            verticalAlignment: Text.AlignHCenter
+                            font.family: "微软雅黑"
+                            font.bold: true
+                            font.pixelSize: 20
+                            font.weight: Font.DemiBold
+                            fontSizeMode: Text.Fit
+                            color: "#99ffffff"
+                        }
+                        Canvas {
+                            anchors.bottom: parent.bottom
+                            anchors.fill: parent
+                            onPaint: {
+                                var context = getContext("2d")
+                                var gradient = context.createLinearGradient(0,0,parent.width,0)
+                                gradient.addColorStop(0.0, Qt.rgba(110 / 256, 18 / 256, 235 / 256, 0.01))
+                                gradient.addColorStop(0.5, Qt.rgba(100 / 256, 24 / 256, 201 / 256, 1))
+                                gradient.addColorStop(1.0, Qt.rgba(88  / 256, 37 / 256, 158 / 256, 0))
+                                context.fillStyle = gradient
+                                context.fillRect(0, 0.96 * parent.height, parent.width, parent.height)
+                            }
+                        }
+                    }
+
 
                 }
                 Rectangle {
@@ -141,7 +250,7 @@ Item {
                     width: parent.width
                     height: 0.1125 * width
                     anchors.bottom: parent.bottom
-                    border.color: "black"
+//                    border.color: "black"
                     // color:"transparent"
                     radius: 24
                     opacity: 0.3

@@ -17,10 +17,17 @@ set(TS_FILES DustbinWithQT5_zh_CN.ts)
 # Set OpenCV dirctory
 set(OpenCV_DIR C:/Applications/opencv4)
 
+# Set Python essential lib dirctory
+set(Python_DIR D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310)
+
 set(PROJECT_SOURCES
         main.cpp
         cppUtils/camerathread.h cppUtils/camerathread.cpp
         cppUtils/imagetransmission.h cppUtils/imagetransmission.cpp
+        cppUtils/cpp_python_support.h cppUtils/cpp_python_support.cpp
+        interface/swtichscene.h interface/swtichscene.cpp
+        interface/getbatteryquantity.h interface/getbatteryquantity.cpp
+        interface/getdustbinquantity.h interface/getdustbinquantity.cpp
         qml.qrc
         ${TS_FILES}
 )
@@ -32,6 +39,11 @@ include_directories(./cppUtils/)
 include_directories(${OpenCV_DIR}/include)
 link_directories(${OpenCV_DIR}/lib)
 find_package(OpenCV 4.6.0 REQUIRED)
+
+# import Python essential lib
+include_directories(${Python_DIR}/include)
+link_directories(${Python_DIR}/lib)
+find_package(Python 3.10 REQUIRED)
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(DustbinWithQT5
@@ -61,7 +73,10 @@ else()
 endif()
 
 target_link_libraries(DustbinWithQT5
-  PRIVATE Qt${QT_VERSION_MAJOR}::Core Qt${QT_VERSION_MAJOR}::Quick ${OpenCV_LIBS})
+  PRIVATE Qt${QT_VERSION_MAJOR}::Core Qt${QT_VERSION_MAJOR}::Quick ${OpenCV_LIBS}
+  ${Python_DIR}/bin/python310.dll
+  ${Python_DIR}/bin/python3.dll
+)
 
 set_target_properties(DustbinWithQT5 PROPERTIES
     MACOSX_BUNDLE_GUI_IDENTIFIER my.example.com

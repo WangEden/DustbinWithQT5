@@ -267,6 +267,7 @@ D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/imagetransmission.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/limits
  mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/list
  mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/map
+ mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/math.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/memory
  mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/mutex
  mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/new
@@ -333,6 +334,8 @@ D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/imagetransmission.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/crtdefs.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/ctype.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/errno.h
+ mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/inttypes.h
+ mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/io.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/locale.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/process.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/pthread.h
@@ -349,6 +352,7 @@ D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/imagetransmission.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/stdio.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/string.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/swprintf.inl
+ mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sys/stat.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sys/timeb.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sys/types.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h
@@ -385,7 +389,106 @@ D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/imagetransmission.h
  mdp:C:/Users/WangEden/Downloads/opencv-4.6.0/modules/imgproc/include/opencv2/imgproc.hpp
  mdp:C:/Users/WangEden/Downloads/opencv-4.6.0/modules/imgproc/include/opencv2/imgproc/segmentation.hpp
  mdp:C:/Users/WangEden/Downloads/opencv-4.6.0/modules/videoio/include/opencv2/videoio.hpp
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/Python.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/abstract.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/bltinmodule.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/boolobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/bytearrayobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/bytesobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cellobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/ceval.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/classobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/code.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/codecs.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/compile.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/complexobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/context.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/abstract.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/bytearrayobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/bytesobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/ceval.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/code.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/compile.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/dictobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/fileobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/fileutils.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/import.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/initconfig.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/listobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/methodobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/object.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/objimpl.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/odictobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/picklebufobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pyctype.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pydebug.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pyerrors.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pyfpe.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pylifecycle.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pymem.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pystate.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pythonrun.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pytime.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/sysmodule.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/traceback.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/tupleobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/unicodeobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/descrobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/dictobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/enumobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/eval.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/exports.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/fileobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/fileutils.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/floatobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/funcobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/genericaliasobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/genobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/import.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/intrcheck.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/iterobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/listobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/longintrepr.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/longobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/memoryobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/methodobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/modsupport.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/moduleobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/namespaceobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/object.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/objimpl.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/osmodule.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/patchlevel.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pycapsule.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pyconfig.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pyerrors.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pyframe.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pyhash.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pylifecycle.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pymacconfig.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pymacro.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pymath.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pymem.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pyport.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pystate.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pystrcmp.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pystrtod.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pythonrun.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pythread.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/rangeobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/setobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/sliceobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/structseq.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/sysmodule.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/traceback.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/tracemalloc.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/tupleobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/typeslots.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/unicodeobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/warnings.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/weakrefobject.h
  mdp:D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/camerathread.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/cpp_python_support.h
 D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/camerathread.h
  mmc:Q_OBJECT
  mdp:D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/camerathread.h
@@ -642,6 +745,7 @@ D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/camerathread.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/limits
  mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/list
  mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/map
+ mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/math.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/memory
  mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/mutex
  mdp:C:/Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/new
@@ -708,6 +812,8 @@ D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/camerathread.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/crtdefs.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/ctype.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/errno.h
+ mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/inttypes.h
+ mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/io.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/locale.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/process.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/pthread.h
@@ -724,6 +830,7 @@ D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/camerathread.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/stdio.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/string.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/swprintf.inl
+ mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sys/stat.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sys/timeb.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sys/types.h
  mdp:C:/Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h
@@ -759,6 +866,107 @@ D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/camerathread.h
  mdp:C:/Users/WangEden/Downloads/opencv-4.6.0/modules/imgproc/include/opencv2/imgproc.hpp
  mdp:C:/Users/WangEden/Downloads/opencv-4.6.0/modules/imgproc/include/opencv2/imgproc/segmentation.hpp
  mdp:C:/Users/WangEden/Downloads/opencv-4.6.0/modules/videoio/include/opencv2/videoio.hpp
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/Python.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/abstract.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/bltinmodule.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/boolobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/bytearrayobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/bytesobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cellobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/ceval.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/classobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/code.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/codecs.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/compile.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/complexobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/context.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/abstract.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/bytearrayobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/bytesobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/ceval.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/code.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/compile.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/dictobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/fileobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/fileutils.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/import.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/initconfig.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/listobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/methodobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/object.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/objimpl.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/odictobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/picklebufobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pyctype.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pydebug.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pyerrors.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pyfpe.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pylifecycle.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pymem.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pystate.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pythonrun.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/pytime.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/sysmodule.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/traceback.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/tupleobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/cpython/unicodeobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/descrobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/dictobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/enumobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/eval.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/exports.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/fileobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/fileutils.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/floatobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/funcobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/genericaliasobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/genobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/import.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/intrcheck.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/iterobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/listobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/longintrepr.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/longobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/memoryobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/methodobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/modsupport.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/moduleobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/namespaceobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/object.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/objimpl.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/osmodule.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/patchlevel.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pycapsule.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pyconfig.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pyerrors.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pyframe.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pyhash.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pylifecycle.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pymacconfig.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pymacro.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pymath.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pymem.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pyport.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pystate.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pystrcmp.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pystrtod.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pythonrun.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/pythread.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/rangeobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/setobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/sliceobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/structseq.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/sysmodule.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/traceback.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/tracemalloc.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/tupleobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/typeslots.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/unicodeobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/warnings.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/weakrefobject.h
+ mdp:D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/cpp_python_support.h
+D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/cpp_python_support.h
 D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/imagetransmission.cpp
 D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/camerathread.cpp
+D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/cpp_python_support.cpp
 D:/ApplicationData/QtProj/DustbinWithQT5/main.cpp

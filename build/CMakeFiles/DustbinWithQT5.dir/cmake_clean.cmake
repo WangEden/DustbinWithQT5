@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/DustbinWithQT5.dir/DustbinWithQT5_autogen/mocs_compilation.cpp.obj.d"
   "CMakeFiles/DustbinWithQT5.dir/cppUtils/camerathread.cpp.obj"
   "CMakeFiles/DustbinWithQT5.dir/cppUtils/camerathread.cpp.obj.d"
+  "CMakeFiles/DustbinWithQT5.dir/cppUtils/cpp_python_support.cpp.obj"
+  "CMakeFiles/DustbinWithQT5.dir/cppUtils/cpp_python_support.cpp.obj.d"
   "CMakeFiles/DustbinWithQT5.dir/cppUtils/imagetransmission.cpp.obj"
   "CMakeFiles/DustbinWithQT5.dir/cppUtils/imagetransmission.cpp.obj.d"
   "CMakeFiles/DustbinWithQT5.dir/main.cpp.obj"

@@ -14,7 +14,7 @@ Item {
     property alias color1: progress_rectangle_1.color
     property alias color2: progress_rectangle_2.color
 
-    NumberAnimation {target: progress_rectangle_1.height ;from: 0;  to: progress; duration: 300}
+//    NumberAnimation {target: progress_rectangle_1.height ;from: 0;  to: progress; duration: 300}
 
     Image {
         id: mask

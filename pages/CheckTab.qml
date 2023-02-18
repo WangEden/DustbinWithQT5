@@ -228,9 +228,12 @@ Item {
                             Button {
                                 text: "开启"
                                 onClicked: {
-                                    loader.sourceComponent = com
-                                    loader.item.open_camera();
-                                    timer.start()
+                                    if(loader.sourceComponent == null) {
+                                        loader.sourceComponent = com
+                                        loader.item.open_camera();
+                                        timer.start()
+                                    }
+//                                    loader.item.call_python_test();
                                 }
                             }
                             // 点击关闭摄像头
@@ -238,8 +241,11 @@ Item {
                                 text:"关闭"
                                 onClicked: {
                                     timer.stop()
-                                    loader.item.close_camera();
-                                    loader.sourceComponent = null;
+                                    if(loader.sourceComponent != null) {
+                                        loader.item.close_camera();
+                                        loader.sourceComponent = null;
+                                    }
+
                                 }
                             }
                         }

@@ -21,6 +21,11 @@
 },
 {
   "directory": "D:/ApplicationData/QtProj/DustbinWithQT5/build",
+  "command": "C:\\Applications\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB @CMakeFiles/DustbinWithQT5.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\DustbinWithQT5.dir\\cppUtils\\cpp_python_support.cpp.obj -c D:\\ApplicationData\\QtProj\\DustbinWithQT5\\cppUtils\\cpp_python_support.cpp",
+  "file": "D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/cpp_python_support.cpp"
+},
+{
+  "directory": "D:/ApplicationData/QtProj/DustbinWithQT5/build",
   "command": "C:\\Applications\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB @CMakeFiles/DustbinWithQT5.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\DustbinWithQT5.dir\\DustbinWithQT5_autogen\\EWIEGA46WW\\qrc_qml.cpp.obj -c D:\\ApplicationData\\QtProj\\DustbinWithQT5\\build\\DustbinWithQT5_autogen\\EWIEGA46WW\\qrc_qml.cpp",
   "file": "D:/ApplicationData/QtProj/DustbinWithQT5/build/DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp"
 }

@@ -1,5 +1,7 @@
 #include "imagetransmission.h"
 
+//#define PYTHON_DEBUG
+
 ImageTransmission::ImageTransmission(QQuickItem *parent) : QQuickPaintedItem(parent)
 {
 
@@ -9,8 +11,12 @@ ImageTransmission::~ImageTransmission()
 {
     this->camera_thread->requestInterruption();
     this->camera_thread->wait();
-}
+#ifdef PYTHON_DEBUG
+    this->python_support->requestInterruption();
+    this->python_support->wait();
+#endif
 
+}
 
 void ImageTransmission::paint(QPainter *painter)
 {
@@ -33,16 +39,23 @@ QPixmap ImageTransmission::matToPixmap(const QSize &size, const cv::Mat &mat)
 void ImageTransmission::open_camera()
 {
     qDebug() << "ImageTransmission: opening camera ...";
+//    std::cout << "cout:";
     this->camera_thread = new CameraThread(this);
     // 绑定主线程和子线程的信号和槽
     qRegisterMetaType<QImage>("QImage");
     connect(camera_thread, SIGNAL(sendImage(QImage)), this, SLOT(recvImage(QImage)));
-    qDebug() << "创建并绑定了摄像头线程";
+    // qDebug() << "创建并绑定了摄像头线程";
+
+#ifdef PYTHON_DEBUG
+    this->python_support = new CppPythonSupport(this);
+    connect(python_support, SIGNAL(sendMessage(QString)), this, SLOT(recvMesssage(QString)));
+    this->python_support->start();
+#endif
 
     setRunning(true);
-    qDebug() << "摄像头线程启动";
+    // qDebug() << "摄像头线程启动";
     updatePainted();
-    qDebug() << "刷新画面";
+    // qDebug() << "刷新画面";
 }
 
 void ImageTransmission::updatePainted()
@@ -72,7 +85,12 @@ void ImageTransmission::setRunning(bool flag)
 void ImageTransmission::recvImage(QImage img)
 {
     this->_img = img;
-    qDebug() << "从摄像头读取mat";
+    // qDebug() << "从摄像头读取mat";
+}
+
+void ImageTransmission::recvMesssage(QString s)
+{
+    qDebug() << s;
 }
 
 

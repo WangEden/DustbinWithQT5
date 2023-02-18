@@ -12,12 +12,6 @@ Window {
     visible: true
     width: SCREEN_WIDTH
     height: SCREEN_HEIGHT
-//    maximumWidth: 1024
-//    maximumHeight: 600
-//    minimumWidth: 512
-//    minimumHeight: 300
-//    title: qsTr("demo")
-//    flags: Qt.Window
     objectName: "window"
     Rectangle {
         id: container
@@ -194,7 +188,7 @@ Window {
                 anchors.fill: parent
                 source: "/pages/HomeTab.qml"
                 onStatusChanged: {
-                    console.log("status:", status)
+//                    console.log("status:", status)
                 }
                 NumberAnimation {
                     id: page_loader_animation
