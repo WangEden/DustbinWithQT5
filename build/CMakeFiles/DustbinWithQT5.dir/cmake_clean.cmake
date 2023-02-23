@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/DustbinWithQT5.dir/cppUtils/cpp_python_support.cpp.obj.d"
   "CMakeFiles/DustbinWithQT5.dir/cppUtils/imagetransmission.cpp.obj"
   "CMakeFiles/DustbinWithQT5.dir/cppUtils/imagetransmission.cpp.obj.d"
+  "CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.obj"
+  "CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.obj.d"
   "CMakeFiles/DustbinWithQT5.dir/main.cpp.obj"
   "CMakeFiles/DustbinWithQT5.dir/main.cpp.obj.d"
   "CMakeFiles/DustbinWithQT5_zh_CN.ts_lst_file"

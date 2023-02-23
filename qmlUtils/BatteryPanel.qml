@@ -15,7 +15,7 @@ Item {
     Image {
         id: logo
         anchors.fill: parent
-        source: "qrc:/src/pages/homePage/card_2_battery_logo.svg"
+        source: "qrc:/resource/pages/homePage/card_2_battery_logo.svg"
         anchors.centerIn: parent
         fillMode: Image.PreserveAspectFit
     }

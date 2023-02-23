@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/camerathread.cpp" "CMakeFiles/DustbinWithQT5.dir/cppUtils/camerathread.cpp.obj" "gcc" "CMakeFiles/DustbinWithQT5.dir/cppUtils/camerathread.cpp.obj.d"
   "D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/cpp_python_support.cpp" "CMakeFiles/DustbinWithQT5.dir/cppUtils/cpp_python_support.cpp.obj" "gcc" "CMakeFiles/DustbinWithQT5.dir/cppUtils/cpp_python_support.cpp.obj.d"
   "D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/imagetransmission.cpp" "CMakeFiles/DustbinWithQT5.dir/cppUtils/imagetransmission.cpp.obj" "gcc" "CMakeFiles/DustbinWithQT5.dir/cppUtils/imagetransmission.cpp.obj.d"
+  "D:/ApplicationData/QtProj/DustbinWithQT5/interface/serialadapter.cpp" "CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.obj" "gcc" "CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.obj.d"
   "D:/ApplicationData/QtProj/DustbinWithQT5/main.cpp" "CMakeFiles/DustbinWithQT5.dir/main.cpp.obj" "gcc" "CMakeFiles/DustbinWithQT5.dir/main.cpp.obj.d"
   )
 

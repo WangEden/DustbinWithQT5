@@ -388,6 +388,7 @@ CMakeFiles/DustbinWithQT5.dir/DustbinWithQT5_autogen/mocs_compilation.cpp.obj: \
  C:/Users/WangEden/Downloads/opencv-4.6.0/modules/imgproc/include/opencv2/imgproc.hpp \
  C:/Users/WangEden/Downloads/opencv-4.6.0/modules/imgproc/include/opencv2/imgproc/segmentation.hpp \
  C:/Users/WangEden/Downloads/opencv-4.6.0/modules/videoio/include/opencv2/videoio.hpp \
+ D:\ApplicationData\QtProj\DustbinWithQT5\build\DustbinWithQT5_autogen\TROXJ62DA7/moc_cpp_python_support.cpp \
  D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/cpp_python_support.h \
  D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/Python.h \
  D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include/patchlevel.h \
@@ -510,4 +511,7 @@ CMakeFiles/DustbinWithQT5.dir/DustbinWithQT5_autogen/mocs_compilation.cpp.obj: \
  C:/Applications/Qt/5.15.2/mingw81_64/include/QtQuick/qquickpainteditem.h \
  C:/Applications/Qt/5.15.2/mingw81_64/include/QtQuick/qquickitem.h \
  C:/Users/WangEden/Downloads/opencv-4.6.0/modules/core/include/opencv2/core/core.hpp \
- D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/camerathread.h
+ D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/camerathread.h \
+ D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/cpp_python_support.h \
+ D:\ApplicationData\QtProj\DustbinWithQT5\build\DustbinWithQT5_autogen\XBG7L5Z4V6/moc_serialadapter.cpp \
+ D:/ApplicationData/QtProj/DustbinWithQT5/interface/serialadapter.h

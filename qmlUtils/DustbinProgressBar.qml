@@ -19,7 +19,7 @@ Item {
     Image {
         id: mask
         anchors.centerIn: parent
-        source: "qrc:/src/pages/storegePage/dustbin_mask.png"
+        source: "qrc:/resource/pages/storegePage/dustbin_mask.png"
 //        sourceSize: Qt.size(parent.width, parent.height)
         smooth: true
         visible: false

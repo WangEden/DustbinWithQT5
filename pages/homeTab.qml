@@ -17,7 +17,7 @@ Item {
             id: homeTab_root
             height: 0.625 * parent.height
             width: 0.74 * parent.width
-            border.color: "yellow"
+//            border.color: "yellow"
             color: "transparent"
             anchors.centerIn: parent
             Row {
@@ -70,7 +70,7 @@ Item {
                             anchors.fill: parent
                             opacity: 0.6
                             fillMode: Image.PreserveAspectCrop
-                            source:"qrc:/src/pages/homePage/card_1_scene_background.png"
+                            source:"qrc:/resource/pages/homePage/card_1_scene_background.png"
                             LinearGradient {
                                 anchors.fill: parent
                                 source:parent
@@ -97,7 +97,7 @@ Item {
                         Image {
                             height: parent.height
                             anchors.centerIn: parent
-                            source: "qrc:/src/pages/homePage/card_1_scene_logo.svg"
+                            source: "qrc:/resource/pages/homePage/card_1_scene_logo.svg"
                             fillMode: Image.PreserveAspectFit
                         }
                     }
@@ -114,6 +114,7 @@ Item {
                             id: scene
 //                            _scene_state: scene_state
                             _scene_state: "indoor"
+                            _image_color_visible: false
                         }
                     }
                     Rectangle {
@@ -128,9 +129,11 @@ Item {
                             onSwitchscene: {
                                 if(status == 1){
                                     scene._scene_state = "indoor"
+                                    scene._image_color_visible = false
                                 }
                                 else {
                                     scene._scene_state = "outdoor"
+                                    scene._image_color_visible = true
                                 }
 //                                scenechange()
                                 //

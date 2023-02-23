@@ -75,32 +75,38 @@ D:/ApplicationData/QtProj/DustbinWithQT5/DustbinWithQT5_zh_CN.ts: D:/Application
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/qml.qrc
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: CMakeFiles/DustbinWithQT5_autogen.dir/AutoRcc_qml_EWIEGA46WW_Info.json
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/main.qml
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/tabBar/home_gray.svg
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/tabBar/home.png
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/tabBar/home.svg
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/tabBar/more_gray.svg
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/tabBar/check_gray.svg
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/tabBar/storge_gray.svg
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/tabBar/root_bg.png
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/pages/morePage/feelback.png
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/pages/morePage/dev.png
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/pages/morePage/about.png
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/pages/morePage/switch.png
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/pages/morePage/pwd.png
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/pages/storegePage/dustbin_mask.png
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/pages/storegePage/trash_type_recylce.png
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/pages/homePage/card_1_scene_logo.svg
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/src/pages/homePage/card_1_scene_background.png
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/qmlUtils/NavigationBar.qml
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/qmlUtils/RectangleProgressBar.qml
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/qmlUtils/HomeTabSceneSignal.qml
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/qmlUtils/RowNavigationBar.qml
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/qmlUtils/HoverPressButton.qml
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/qmlUtils/LinearGradientBackground.qml
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/qmlUtils/DustbinProgressBar.qml
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/qmlUtils/BatteryPanel.qml
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/qmlUtils/SlideSwitch.qml
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/tabBar/home_gray.svg
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/tabBar/home.png
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/tabBar/home.svg
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/tabBar/more_gray.svg
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/tabBar/check_gray.svg
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/tabBar/storge_gray.svg
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/tabBar/root_bg.png
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/pages/morePage/feelback.png
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/pages/morePage/dev.png
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/pages/morePage/about.png
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/pages/morePage/switch.png
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/pages/morePage/pwd.png
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/pages/storegePage/dustbin_mask.png
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/pages/storegePage/trash_type_recylce.png
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/pages/homePage/card_1_scene_logo.svg
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/pages/homePage/card_1_sign_logo.svg
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/pages/homePage/card_2_battery_logo.png
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/pages/homePage/card_2_battery_logo.svg
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/pages/homePage/card_1_scene_logo.png
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/resource/pages/homePage/card_1_scene_background.png
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/pages/StorgeTab.qml
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/pages/MoreTab.qml
-DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/pages/homeTab.qml
+DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/pages/HomeTab.qml
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: D:/ApplicationData/QtProj/DustbinWithQT5/pages/CheckTab.qml
 DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp: C:/Applications/Qt/5.15.2/mingw81_64/bin/rcc.exe
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=D:\ApplicationData\QtProj\DustbinWithQT5\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Automatic RCC for qml.qrc"
@@ -181,11 +187,26 @@ CMakeFiles/DustbinWithQT5.dir/cppUtils/cpp_python_support.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DustbinWithQT5.dir/cppUtils/cpp_python_support.cpp.s"
 	C:\Applications\Qt\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\ApplicationData\QtProj\DustbinWithQT5\cppUtils\cpp_python_support.cpp -o CMakeFiles\DustbinWithQT5.dir\cppUtils\cpp_python_support.cpp.s
 
+CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.obj: CMakeFiles/DustbinWithQT5.dir/flags.make
+CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.obj: CMakeFiles/DustbinWithQT5.dir/includes_CXX.rsp
+CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.obj: D:/ApplicationData/QtProj/DustbinWithQT5/interface/serialadapter.cpp
+CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.obj: CMakeFiles/DustbinWithQT5.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\ApplicationData\QtProj\DustbinWithQT5\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.obj"
+	C:\Applications\Qt\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.obj -MF CMakeFiles\DustbinWithQT5.dir\interface\serialadapter.cpp.obj.d -o CMakeFiles\DustbinWithQT5.dir\interface\serialadapter.cpp.obj -c D:\ApplicationData\QtProj\DustbinWithQT5\interface\serialadapter.cpp
+
+CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.i"
+	C:\Applications\Qt\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\ApplicationData\QtProj\DustbinWithQT5\interface\serialadapter.cpp > CMakeFiles\DustbinWithQT5.dir\interface\serialadapter.cpp.i
+
+CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.s"
+	C:\Applications\Qt\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\ApplicationData\QtProj\DustbinWithQT5\interface\serialadapter.cpp -o CMakeFiles\DustbinWithQT5.dir\interface\serialadapter.cpp.s
+
 CMakeFiles/DustbinWithQT5.dir/DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp.obj: CMakeFiles/DustbinWithQT5.dir/flags.make
 CMakeFiles/DustbinWithQT5.dir/DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp.obj: CMakeFiles/DustbinWithQT5.dir/includes_CXX.rsp
 CMakeFiles/DustbinWithQT5.dir/DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp.obj: DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp
 CMakeFiles/DustbinWithQT5.dir/DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp.obj: CMakeFiles/DustbinWithQT5.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\ApplicationData\QtProj\DustbinWithQT5\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/DustbinWithQT5.dir/DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\ApplicationData\QtProj\DustbinWithQT5\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/DustbinWithQT5.dir/DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp.obj"
 	C:\Applications\Qt\Tools\mingw1120_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/DustbinWithQT5.dir/DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp.obj -MF CMakeFiles\DustbinWithQT5.dir\DustbinWithQT5_autogen\EWIEGA46WW\qrc_qml.cpp.obj.d -o CMakeFiles\DustbinWithQT5.dir\DustbinWithQT5_autogen\EWIEGA46WW\qrc_qml.cpp.obj -c D:\ApplicationData\QtProj\DustbinWithQT5\build\DustbinWithQT5_autogen\EWIEGA46WW\qrc_qml.cpp
 
 CMakeFiles/DustbinWithQT5.dir/DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp.i: cmake_force
@@ -203,6 +224,7 @@ DustbinWithQT5_OBJECTS = \
 "CMakeFiles/DustbinWithQT5.dir/cppUtils/camerathread.cpp.obj" \
 "CMakeFiles/DustbinWithQT5.dir/cppUtils/imagetransmission.cpp.obj" \
 "CMakeFiles/DustbinWithQT5.dir/cppUtils/cpp_python_support.cpp.obj" \
+"CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.obj" \
 "CMakeFiles/DustbinWithQT5.dir/DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp.obj"
 
 # External object files for target DustbinWithQT5
@@ -213,6 +235,7 @@ DustbinWithQT5.exe: CMakeFiles/DustbinWithQT5.dir/main.cpp.obj
 DustbinWithQT5.exe: CMakeFiles/DustbinWithQT5.dir/cppUtils/camerathread.cpp.obj
 DustbinWithQT5.exe: CMakeFiles/DustbinWithQT5.dir/cppUtils/imagetransmission.cpp.obj
 DustbinWithQT5.exe: CMakeFiles/DustbinWithQT5.dir/cppUtils/cpp_python_support.cpp.obj
+DustbinWithQT5.exe: CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.obj
 DustbinWithQT5.exe: CMakeFiles/DustbinWithQT5.dir/DustbinWithQT5_autogen/EWIEGA46WW/qrc_qml.cpp.obj
 DustbinWithQT5.exe: CMakeFiles/DustbinWithQT5.dir/build.make
 DustbinWithQT5.exe: C:/Applications/Qt/5.15.2/mingw81_64/lib/libQt5Quick.a
@@ -280,7 +303,7 @@ DustbinWithQT5.exe: C:/Applications/opencv4/lib/libopencv_core460.dll.a
 DustbinWithQT5.exe: CMakeFiles/DustbinWithQT5.dir/linkLibs.rsp
 DustbinWithQT5.exe: CMakeFiles/DustbinWithQT5.dir/objects1
 DustbinWithQT5.exe: CMakeFiles/DustbinWithQT5.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\ApplicationData\QtProj\DustbinWithQT5\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable DustbinWithQT5.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\ApplicationData\QtProj\DustbinWithQT5\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable DustbinWithQT5.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\DustbinWithQT5.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

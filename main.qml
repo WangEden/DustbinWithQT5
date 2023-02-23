@@ -39,7 +39,7 @@ Window {
                 id: root_bg
                 anchors.fill: parent
                 fillMode: Image.PreserveAspectCrop
-                source: "qrc:/src/tabBar/root_bg.png"
+                source: "qrc:/resource/tabBar/root_bg.png"
             }
 
             // 左边的菜单栏的内部框架
@@ -62,7 +62,7 @@ Window {
                     // border.color: "black";
                     Utils.NavigationBar {
                         id:homeTabBarIcon
-                        icon: "qrc:/src/tabBar/home_gray.svg"
+                        icon: "qrc:/resource/tabBar/home_gray.svg"
                         text: "首页"
                         state: "choosed"
                         onTabclick:{
@@ -93,7 +93,7 @@ Window {
                     color: "transparent"
                     Utils.NavigationBar {
                         id:checkTabBarIcon
-                        icon: "qrc:/src/tabBar/check_gray.svg"
+                        icon: "qrc:/resource/tabBar/check_gray.svg"
                         text: "查看"
                         state: "unchoosed"
                         onTabclick:{
@@ -123,7 +123,7 @@ Window {
                     color: "transparent"
                     Utils.NavigationBar {
                         id:storgeTabBarIcon
-                        icon: "qrc:/src/tabBar/storge_gray.svg"
+                        icon: "qrc:/resource/tabBar/storge_gray.svg"
                         text: "存量"
                         state: "unchoosed"
                         onTabclick:{
@@ -152,7 +152,7 @@ Window {
                     color: "transparent"
                     Utils.NavigationBar {
                         id:moreTabBarIcon
-                        icon: "qrc:/src/tabBar/more_gray.svg"
+                        icon: "qrc:/resource/tabBar/more_gray.svg"
                         text: "更多"
                         state: "unchoosed"
                         onTabclick:{

@@ -421,6 +421,8 @@ _Python_EXECUTABLE:INTERNAL=C:/Users/WangEden/AppData/Local/Programs/Python/Pyth
 //Python Properties
 _Python_INTERPRETER_PROPERTIES:INTERNAL=Python;3;10;7;64;;cp310-win_amd64;C:\Users\WangEden\AppData\Local\Programs\Python\Python310\Lib;C:\Users\WangEden\AppData\Local\Programs\Python\Python310\Lib;C:\Users\WangEden\AppData\Local\Programs\Python\Python310\Lib\site-packages;C:\Users\WangEden\AppData\Local\Programs\Python\Python310\Lib\site-packages
 _Python_INTERPRETER_SIGNATURE:INTERNAL=1f80d16ea0c57e0ed264ae3a5b9b5d64
+//Interpreter reason failure
+_Python_Interpreter_REASON_FAILURE:INTERNAL=
 //NumPy reason failure
 _Python_NumPy_REASON_FAILURE:INTERNAL=
 

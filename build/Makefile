@@ -306,6 +306,30 @@ cppUtils/imagetransmission.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\DustbinWithQT5.dir\build.make CMakeFiles/DustbinWithQT5.dir/cppUtils/imagetransmission.cpp.s
 .PHONY : cppUtils/imagetransmission.cpp.s
 
+interface/serialadapter.obj: interface/serialadapter.cpp.obj
+.PHONY : interface/serialadapter.obj
+
+# target to build an object file
+interface/serialadapter.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DustbinWithQT5.dir\build.make CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.obj
+.PHONY : interface/serialadapter.cpp.obj
+
+interface/serialadapter.i: interface/serialadapter.cpp.i
+.PHONY : interface/serialadapter.i
+
+# target to preprocess a source file
+interface/serialadapter.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DustbinWithQT5.dir\build.make CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.i
+.PHONY : interface/serialadapter.cpp.i
+
+interface/serialadapter.s: interface/serialadapter.cpp.s
+.PHONY : interface/serialadapter.s
+
+# target to generate assembly for a file
+interface/serialadapter.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\DustbinWithQT5.dir\build.make CMakeFiles/DustbinWithQT5.dir/interface/serialadapter.cpp.s
+.PHONY : interface/serialadapter.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -359,6 +383,9 @@ help:
 	@echo ... cppUtils/imagetransmission.obj
 	@echo ... cppUtils/imagetransmission.i
 	@echo ... cppUtils/imagetransmission.s
+	@echo ... interface/serialadapter.obj
+	@echo ... interface/serialadapter.i
+	@echo ... interface/serialadapter.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

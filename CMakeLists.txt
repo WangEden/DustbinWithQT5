@@ -25,9 +25,7 @@ set(PROJECT_SOURCES
         cppUtils/camerathread.h cppUtils/camerathread.cpp
         cppUtils/imagetransmission.h cppUtils/imagetransmission.cpp
         cppUtils/cpp_python_support.h cppUtils/cpp_python_support.cpp
-        interface/swtichscene.h interface/swtichscene.cpp
-        interface/getbatteryquantity.h interface/getbatteryquantity.cpp
-        interface/getdustbinquantity.h interface/getdustbinquantity.cpp
+        interface/serialadapter.h interface/serialadapter.cpp
         qml.qrc
         ${TS_FILES}
 )

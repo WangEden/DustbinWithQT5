@@ -1,38 +1,38 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>src/tabBar/check_gray.svg</file>
-        <file>src/tabBar/home.png</file>
-        <file>src/tabBar/home.svg</file>
-        <file>src/tabBar/home_gray.svg</file>
-        <file>src/tabBar/more_gray.svg</file>
-        <file>src/tabBar/root_bg.png</file>
-        <file>src/tabBar/storge_gray.svg</file>
-        <file>src/pages/homePage/card_1_scene_background.png</file>
-        <file>src/pages/homePage/card_1_scene_logo.svg</file>
+        <file>resource/tabBar/check_gray.svg</file>
+        <file>resource/tabBar/home.png</file>
+        <file>resource/tabBar/home.svg</file>
+        <file>resource/tabBar/home_gray.svg</file>
+        <file>resource/tabBar/more_gray.svg</file>
+        <file>resource/tabBar/root_bg.png</file>
+        <file>resource/tabBar/storge_gray.svg</file>
+        <file>resource/pages/homePage/card_1_scene_background.png</file>
+        <file>resource/pages/homePage/card_1_scene_logo.svg</file>
         <file>qmlUtils/RectangleProgressBar.qml</file>
         <file>qmlUtils/DustbinProgressBar.qml</file>
         <file>qmlUtils/SlideSwitch.qml</file>
         <file>qmlUtils/NavigationBar.qml</file>
         <file>qmlUtils/LinearGradientBackground.qml</file>
         <file>qmlUtils/RowNavigationBar.qml</file>
-        <file>src/pages/morePage/about.png</file>
-        <file>src/pages/morePage/dev.png</file>
-        <file>src/pages/morePage/feelback.png</file>
-        <file>src/pages/morePage/pwd.png</file>
-        <file>src/pages/morePage/switch.png</file>
+        <file>resource/pages/morePage/about.png</file>
+        <file>resource/pages/morePage/dev.png</file>
+        <file>resource/pages/morePage/feelback.png</file>
+        <file>resource/pages/morePage/pwd.png</file>
+        <file>resource/pages/morePage/switch.png</file>
         <file>pages/CheckTab.qml</file>
         <file>pages/HomeTab.qml</file>
         <file>pages/MoreTab.qml</file>
         <file>pages/StorgeTab.qml</file>
         <file>qmlUtils/BatteryPanel.qml</file>
-        <file>src/pages/storegePage/dustbin_mask.png</file>
-        <file>src/pages/storegePage/trash_type_recylce.png</file>
+        <file>resource/pages/storegePage/dustbin_mask.png</file>
+        <file>resource/pages/storegePage/trash_type_recylce.png</file>
         <file>qmlUtils/HomeTabSceneSignal.qml</file>
-        <file>src/pages/homePage/card_1_sign_logo.svg</file>
+        <file>resource/pages/homePage/card_1_sign_logo.svg</file>
         <file>qmlUtils/HoverPressButton.qml</file>
-        <file>src/pages/homePage/card_1_scene_logo.png</file>
-        <file>src/pages/homePage/card_2_battery_logo.png</file>
-        <file>src/pages/homePage/card_2_battery_logo.svg</file>
+        <file>resource/pages/homePage/card_1_scene_logo.png</file>
+        <file>resource/pages/homePage/card_2_battery_logo.png</file>
+        <file>resource/pages/homePage/card_2_battery_logo.svg</file>
     </qresource>
 </RCC>

@@ -1,8 +1,10 @@
 import QtQuick 2.15
+import QtGraphicalEffects 1.15
 
 Item {
     anchors.fill: parent
     property alias _scene_state: info.state
+    property alias _image_color_visible: image_color.visible
 
     Rectangle {
         width:parent.width
@@ -19,9 +21,20 @@ Item {
             color: "transparent"
             Image {
                 anchors.fill: parent
-                source: "qrc:/src/pages/homePage/card_1_sign_logo.svg"
+                source: "qrc:/resource/pages/homePage/card_1_sign_logo.svg"
                 anchors.centerIn: parent
                 fillMode: Image.PreserveAspectFit
+                LinearGradient {
+                    id: image_color
+                    anchors.fill: parent
+                    source: parent
+                    start: Qt.point(0, 0)
+                    end: Qt.point(0, parent.height)
+                    gradient: Gradient {
+                        GradientStop { position: 0; color: Qt.rgba(194 / 256, 209 / 256, 63 / 256, 1) }
+                        GradientStop { position: 1; color: Qt.rgba(194 / 256, 209 / 256, 63 / 256, 1) }
+                    }
+                }
             }
         }
         Rectangle {

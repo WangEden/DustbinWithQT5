@@ -117,6 +117,12 @@
 			"MU",
 			"TROXJ62DA7/moc_imagetransmission.cpp",
 			null
+		],
+		[
+			"D:/ApplicationData/QtProj/DustbinWithQT5/interface/serialadapter.h",
+			"MU",
+			"XBG7L5Z4V6/moc_serialadapter.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -252,6 +258,11 @@
 		],
 		[
 			"D:/ApplicationData/QtProj/DustbinWithQT5/cppUtils/imagetransmission.cpp",
+			"MU",
+			null
+		],
+		[
+			"D:/ApplicationData/QtProj/DustbinWithQT5/interface/serialadapter.cpp",
 			"MU",
 			null
 		],

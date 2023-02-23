@@ -89,7 +89,7 @@ Item {
                                 color:"transparent"
                                 Utils.RowNavigationBar {
                                     id: moreTab_1
-                                    icon:"qrc:/src/pages/morePage/switch.png"
+                                    icon:"qrc:/resource/pages/morePage/switch.png"
                                     info:"开关"
                                     state: "choosed"
                                     onTabclick:{
@@ -110,7 +110,7 @@ Item {
                                 color:"transparent"
                                 Utils.RowNavigationBar {
                                     id: moreTab_2
-                                    icon:"qrc:/src/pages/morePage/pwd.png"
+                                    icon:"qrc:/resource/pages/morePage/pwd.png"
                                     info:"密码"
                                     onTabclick:{
                                         moretab_page.currentIndex = 1
@@ -129,7 +129,7 @@ Item {
                                 color:"transparent"
                                 Utils.RowNavigationBar {
                                     id: moreTab_3
-                                    icon:"qrc:/src/pages/morePage/dev.png"
+                                    icon:"qrc:/resource/pages/morePage/dev.png"
                                     info:"设备"
                                     onTabclick:{
                                         moretab_page.currentIndex = 2
@@ -148,7 +148,7 @@ Item {
                                 color:"transparent"
                                 Utils.RowNavigationBar {
                                     id: moreTab_4
-                                    icon:"qrc:/src/pages/morePage/feelback.png"
+                                    icon:"qrc:/resource/pages/morePage/feelback.png"
                                     info:"反馈"
                                     onTabclick:{
                                         moretab_page.currentIndex = 3
@@ -167,7 +167,7 @@ Item {
                                 color:"transparent"
                                 Utils.RowNavigationBar {
                                     id: moreTab_5
-                                    icon:"qrc:/src/pages/morePage/about.png"
+                                    icon:"qrc:/resource/pages/morePage/about.png"
                                     info:"帮助"
                                     onTabclick:{
                                         moretab_page.currentIndex = 4
@@ -191,7 +191,7 @@ Item {
                     id: root_bg
                     anchors.fill: parent
                     fillMode: Image.PreserveAspectFit
-                    source: "qrc:/src/tabBar/root_bg.png"
+                    source: "qrc:/resource/tabBar/root_bg.png"
                 }
             }
             Rectangle {
