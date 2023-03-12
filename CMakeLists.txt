@@ -15,7 +15,7 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core Quick LinguistTools)
 set(TS_FILES DustbinWithQT5_zh_CN.ts)
 
 # Set OpenCV dirctory
-set(OpenCV_DIR C:/Applications/opencv4)
+set(OpenCV_DIR C:/Applications/opencv/opencv-4.6.0/build)
 
 # Set Python essential lib dirctory
 set(Python_DIR D:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310)

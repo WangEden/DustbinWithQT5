@@ -240,7 +240,7 @@
 				},
 				{
 					"backtrace" : 25,
-					"path" : "C:/Applications/opencv4/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/build/include"
 				},
 				{
 					"backtrace" : 26,
@@ -294,282 +294,277 @@
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Applications/opencv4"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/build"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/core/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/core/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/flann/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/flann/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/imgproc/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/imgproc/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/intensity_transform/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/intensity_transform/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/ml/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/ml/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/phase_unwrapping/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/phase_unwrapping/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/photo/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/photo/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/plot/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/plot/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/quality/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/quality/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/reg/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/reg/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/surface_matching/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/surface_matching/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/xphoto/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/xphoto/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/dnn/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/dnn/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/dnn_superres/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/dnn_superres/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/features2d/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/features2d/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/fuzzy/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/fuzzy/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/hfs/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/hfs/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/img_hash/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/img_hash/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/imgcodecs/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/imgcodecs/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/line_descriptor/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/line_descriptor/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/saliency/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/saliency/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/text/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/text/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/videoio/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/videoio/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/wechat_qrcode/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/wechat_qrcode/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/barcode/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/barcode/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/calib3d/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/calib3d/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/cvv/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/datasets/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/datasets/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/highgui/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/highgui/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/mcc/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/mcc/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/objdetect/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/objdetect/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/rapid/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/rapid/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/rgbd/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/rgbd/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/shape/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/shape/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/structured_light/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/structured_light/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/ts/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/ts/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/video/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/video/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/videostab/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/videostab/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/xfeatures2d/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/xfeatures2d/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/ximgproc/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/ximgproc/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/xobjdetect/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/xobjdetect/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/aruco/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/aruco/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/bgsegm/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/bgsegm/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/bioinspired/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/bioinspired/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/ccalib/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/ccalib/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/dnn_objdetect/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/dnn_objdetect/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/dpm/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/dpm/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/face/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/face/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/gapi/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/gapi/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/optflow/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/optflow/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/modules/stitching/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/modules/stitching/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/superres/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/superres/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/tracking/include"
 				},
 				{
 					"backtrace" : 5,
 					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/tracking/include"
-				},
-				{
-					"backtrace" : 5,
-					"isSystem" : true,
-					"path" : "C:/Users/WangEden/Downloads/opencv-4.6.0/opencv_contrib-4.6.0/modules/stereo/include"
+					"path" : "C:/Applications/opencv/opencv-4.6.0/opencv_contrib-4.6.0/modules/stereo/include"
 				}
 			],
 			"language" : "CXX",
@@ -630,7 +625,7 @@
 			},
 			{
 				"backtrace" : 3,
-				"fragment" : "-LC:\\Applications\\opencv4\\lib",
+				"fragment" : "-LC:\\Applications\\opencv\\opencv-4.6.0\\build\\lib",
 				"role" : "libraryPath"
 			},
 			{
@@ -645,167 +640,162 @@
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_gapi460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_gapi460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_stitching460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_stitching460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_aruco460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_aruco460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_barcode460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_barcode460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_bgsegm460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_bgsegm460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_bioinspired460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_bioinspired460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_ccalib460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_ccalib460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_cvv460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_dnn_objdetect460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_dnn_objdetect460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_dnn_superres460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_dnn_superres460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_dpm460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_dpm460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_face460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_face460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_fuzzy460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_fuzzy460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_hfs460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_hfs460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_img_hash460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_img_hash460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_intensity_transform460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_intensity_transform460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_line_descriptor460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_line_descriptor460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_mcc460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_mcc460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_quality460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_quality460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_rapid460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_rapid460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_reg460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_reg460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_rgbd460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_rgbd460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_saliency460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_saliency460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_stereo460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_stereo460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_structured_light460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_structured_light460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_superres460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_superres460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_surface_matching460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_surface_matching460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_tracking460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_tracking460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_videostab460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_videostab460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_wechat_qrcode460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_wechat_qrcode460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_xfeatures2d460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_xfeatures2d460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_xobjdetect460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_xobjdetect460.dll.a",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_xphoto460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_xphoto460.dll.a",
 				"role" : "libraries"
 			},
 			{
@@ -834,16 +824,6 @@
 				"role" : "libraries"
 			},
 			{
-				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_shape460.dll.a",
-				"role" : "libraries"
-			},
-			{
-				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_highgui460.dll.a",
-				"role" : "libraries"
-			},
-			{
 				"backtrace" : 11,
 				"fragment" : "C:\\Applications\\Qt\\5.15.2\\mingw81_64\\lib\\libQt5Gui.a",
 				"role" : "libraries"
@@ -860,92 +840,102 @@
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_datasets460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_shape460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_plot460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_highgui460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_text460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_datasets460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_ml460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_plot460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_phase_unwrapping460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_text460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_optflow460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_ml460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_ximgproc460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_phase_unwrapping460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_video460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_optflow460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_videoio460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_ximgproc460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_imgcodecs460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_video460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_objdetect460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_videoio460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_calib3d460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_imgcodecs460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_dnn460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_objdetect460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_features2d460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_calib3d460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_flann460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_dnn460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_photo460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_features2d460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_imgproc460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_flann460.dll.a",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Applications\\opencv4\\lib\\libopencv_core460.dll.a",
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_photo460.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_imgproc460.dll.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "C:\\Applications\\opencv\\opencv-4.6.0\\build\\lib\\libopencv_core460.dll.a",
 				"role" : "libraries"
 			},
 			{

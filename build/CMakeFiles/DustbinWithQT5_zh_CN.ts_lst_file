@@ -1,5 +1,5 @@
 -ID:/ApplicationData/QtProj/DustbinWithQT5/3rd/python310/include
--IC:/Applications/opencv4/include
+-IC:/Applications/opencv/opencv-4.6.0/build/include
 -ID:/ApplicationData/QtProj/DustbinWithQT5/./cppUtils
 -ID:/ApplicationData/QtProj/DustbinWithQT5/.
 D:/ApplicationData/QtProj/DustbinWithQT5

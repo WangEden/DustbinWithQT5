@@ -1243,7 +1243,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "[C:/Applications/opencv4][v4.6.0(4.6.0)]"
+			"value" : "[C:/Applications/opencv/opencv-4.6.0/build][v4.6.0(4.6.0)]"
 		},
 		{
 			"name" : "FIND_PACKAGE_MESSAGE_DETAILS_Python",
