@@ -9,8 +9,8 @@
 
 界面程序演示视频如下：
 
-工创赛物流车.mov
-链接: https://pan.baidu.com/s/1_9tQeQntiIW0niecB8EMRw?pwd=xqw2 提取码: xqw2 
+Qt界面.mp4
+链接: https://pan.baidu.com/s/19NntGPKJwPhn-oHyga8ghg?pwd=ghar 提取码: ghar 
 
 **cppUtils**
 
