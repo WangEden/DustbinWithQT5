@@ -2,10 +2,15 @@
 
 智能分类垃圾桶的中位机程序QtQuick5项目，某个被遗忘的版本...
 
-垃圾桶运行演示视频如下：
+垃圾桶运动演示视频如下：
 
 通过网盘分享的文件：智能移动垃圾桶.MP4
 链接: https://pan.baidu.com/s/1kDwcqjSr_JL7NdfLhq8vvQ?pwd=pw5v 提取码: pw5v 
+--来自百度网盘超级会员v5的分享
+
+界面程序演示视频如下：
+通过网盘分享的文件：工创赛物流车.mov
+链接: https://pan.baidu.com/s/1_9tQeQntiIW0niecB8EMRw?pwd=xqw2 提取码: xqw2 
 --来自百度网盘超级会员v5的分享
 
 **cppUtils**
