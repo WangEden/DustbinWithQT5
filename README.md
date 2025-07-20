@@ -28,3 +28,13 @@ Qt界面.mp4
 **qmlUtils**
 
 使用qml语言编写的自定义图形组件，包含旋转的电池面板、垃圾桶形状的进度条、圆边矩形进度条动画、导航栏动画等
+
+**UI设计稿**
+
+![image1](./assets/UI_01.jpg)
+
+![image2](./assets/UI_02.jpg)
+
+![image3](./assets/UI_03.jpg)
+
+![image4](./assets/UI_04.jpg)
